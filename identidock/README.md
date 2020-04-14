@@ -1,6 +1,7 @@
 identidock
+
 ==========
 
-Simple identicon server based on monsterid from Kevin Gaudin.
+Kevin Gaudinのmonsteridを元にしたシンプルなidenticonサーバ.
 
-From "Using Docker" by Adrian Mouat published by O'Reilly media.
+Adrian Mouat 著、オライリージャパンの"Using Docker"による.
